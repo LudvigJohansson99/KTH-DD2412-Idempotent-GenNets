@@ -1,0 +1,10 @@
+matplotlib
+torch
+torchmetrics[image]
+tensorboard
+tqdm
+torchvision
+gdown
+pyyaml
+torchsummary
+opencv-python
